@@ -7,6 +7,9 @@ Unity Barracuda で ニューラルネットワークの推論
 # Presentation Movie
 https://user-images.githubusercontent.com/37477845/150623396-df3a3a1a-d60d-4d08-a3af-2d97eda76531.mp4
 
+SpeakerDeck：[Link](https://speakerdeck.com/kazuhitotakahashi/ngk2022s-unity-barracuda)<br>
+YouTube：[Link](https://www.youtube.com/watch?v=V37molIlzm0)
+
 # Application(Windows)
 発表に使用した実行ファイルは「Windows-Build」ディレクトリに格納しています。<br>
 「NGK2022S.exe」を実行してください（Windows向けビルドです）<br>
